@@ -1,9 +1,7 @@
 # Font-Awesome-For-Ionic-Tabs
-Use Font Awesome icons for Ionic Framework tabs
+Use Font Awesome icons with Ionic Framework tabs
 
 ## Installation
-***
-
 Make sure you have Font Awesome installed correctly and is working with your Ionic app. You'll need to make sure the fonts are located locally on in your app and that your @font-face src is correctly pointing to files.
 
 Then include the font-awesome-ionic-tabs.css file in your app. If it's working correctly, you should be able to use the classes just like the ionicons.
@@ -16,7 +14,6 @@ Then include the font-awesome-ionic-tabs.css file in your app. If it's working c
 ```
 
 ## Adding Fonts
-***
 ***NOTE:*** I have not added all of the Font Awesome icons to the style sheet yet. Feel free to help! 
 
 * Find the unicode characters here: http://fortawesome.github.io/Font-Awesome/cheatsheet/
@@ -67,6 +64,14 @@ Then include the font-awesome-ionic-tabs.css file in your app. If it's working c
   
  .ion-tab-fa-apple:before {
   content: "\f179"; }
-
 ```
+
+*Now you can use your new class...*
+
+```html
+<ion-tab title="Photos" icon-on="ion-tab-fa-apple" icon-off="ion-tab-fa-apple">
+  <ion-nav-view name="tab-one"></ion-nav-view>
+</ion-tab>
+```
+
 
