@@ -1,0 +1,45 @@
+/*!
+ * Copyright 2015 Brandon Passley
+ * http://brandonpassley.com/
+ *
+ * Font Awesome Ionic Tabs
+ * Makes the awesome Ionic tabs even awesomer by adding Font Awesome Icons
+ *
+ * Use this however you see fit.
+ *  
+ * Learn more about Ionic
+ * http://ionicframework.com/
+ * 
+ * Visit Font Awesome to learn more and view license details
+ * http://fortawesome.github.io/Font-Awesome/
+ *
+ */
+
+/*----------------------------------
+Font Awesome Tab Icon Additions
+Make sure the Font Awesome CSS is included before this file
+To add more icons:
+* Find the unicode characters here: http://fortawesome.github.io/Font-Awesome/cheatsheet/
+* See if they are already included in this list
+* Name your style identical to the font awesome style, but prefix with "ion-tab-"
+* Add in two places (CSS description at top and the specific content: with the unicode) */
+
+.ion-tab-fa-anchor:before {
+  display: inline-block;
+  font-family: "FontAwesome";
+  font-size: 72%;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-rendering: auto;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.ion-tab-fa-anchor:before {
+  content: "\f13d"; }
+
+
+
