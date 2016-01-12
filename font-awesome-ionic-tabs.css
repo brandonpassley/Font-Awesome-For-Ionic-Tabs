@@ -24,7 +24,15 @@ To add more icons:
 * Name your style identical to the font awesome style, but prefix with "ion-tab-"
 * Add in two places (CSS description at top and the specific content: with the unicode) */
 
-.ion-tab-fa-anchor:before {
+.ion-tab-fa-anchor:before,
+.ion-tab-fa-tags:before,
+.ion-tab-fa-list:before, 
+.ion-tab-fa-user:before,
+.ion-tab-fa-users:before,
+.ion-tab-fa-comments:before,
+.ion-tab-fa-cog:before,
+.ion-tab-fa-gear:before,
+.ion-tab-fa-info:before {
   display: inline-block;
   font-family: "FontAwesome";
   font-size: 72%;
@@ -41,5 +49,24 @@ To add more icons:
 .ion-tab-fa-anchor:before {
   content: "\f13d"; }
 
+.ion-tab-fa-tags:before {
+  content: "\f02c"; }
 
+.ion-tab-fa-list:before {
+  content: "\f03a"; }
 
+.ion-tab-fa-user:before {
+  content: "\f007"; }
+
+.ion-tab-fa-users:before {
+  content: "\f0c0"; }
+
+.ion-tab-fa-comments:before {
+  content: "\f086"; }
+
+.ion-tab-fa-cog:before,
+.ion-tab-fa-gear:before {
+  content: "\f013"; }
+
+.ion-tab-fa-info:before {
+  content: "\f05a"; }
