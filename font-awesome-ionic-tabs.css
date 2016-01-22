@@ -32,6 +32,8 @@ To add more icons:
 .ion-tab-fa-comments:before,
 .ion-tab-fa-cog:before,
 .ion-tab-fa-gear:before,
+.ion-tab-fa-calendar-o:before,
+.ion-tab-fa-calendar:before,
 .ion-tab-fa-info:before {
   display: inline-block;
   font-family: "FontAwesome";
@@ -70,3 +72,9 @@ To add more icons:
 
 .ion-tab-fa-info:before {
   content: "\f05a"; }
+
+.ion-tab-fa-calendar:before {
+  content: "\f073"; }
+
+.ion-tab-fa-calendar-o:before {
+  content: "\f133"; }
