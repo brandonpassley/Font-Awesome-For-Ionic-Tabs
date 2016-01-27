@@ -27,7 +27,6 @@ To add more icons:
 [class*=" ion-tab-fa-"]:before {
   display: inline-block;
   font-family: "FontAwesome";
-  font-size: 72%;
   speak: none;
   font-style: normal;
   font-weight: normal;
