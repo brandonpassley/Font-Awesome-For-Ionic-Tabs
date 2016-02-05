@@ -78,8 +78,8 @@ To add more icons:
 .ion-tab-fa-check:before {
   content: "\f00c";
 }
-.fa-remove:before,
-.fa-close:before,
+.ion-tab-fa-remove:before,
+.ion-tab-fa-close:before,
 .ion-tab-fa-times:before {
   content: "\f00d";
 }
@@ -95,7 +95,7 @@ To add more icons:
 .ion-tab-fa-signal:before {
   content: "\f012";
 }
-.fa-gear:before,
+.ion-tab-fa-gear:before,
 .ion-tab-fa-cog:before {
   content: "\f013";
 }
@@ -129,7 +129,7 @@ To add more icons:
 .ion-tab-fa-play-circle-o:before {
   content: "\f01d";
 }
-.fa-rotate-right:before,
+.ion-tab-fa-rotate-right:before,
 .ion-tab-fa-repeat:before {
   content: "\f01e";
 }
@@ -211,7 +211,7 @@ To add more icons:
 .ion-tab-fa-list:before {
   content: "\f03a";
 }
-.fa-dedent:before,
+.ion-tab-fa-dedent:before,
 .ion-tab-fa-outdent:before {
   content: "\f03b";
 }
@@ -221,8 +221,8 @@ To add more icons:
 .ion-tab-fa-video-camera:before {
   content: "\f03d";
 }
-.fa-photo:before,
-.fa-image:before,
+.ion-tab-fa-photo:before,
+.ion-tab-fa-image:before,
 .ion-tab-fa-picture-o:before {
   content: "\f03e";
 }
@@ -238,7 +238,7 @@ To add more icons:
 .ion-tab-fa-tint:before {
   content: "\f043";
 }
-.fa-edit:before,
+.ion-tab-fa-edit:before,
 .ion-tab-fa-pencil-square-o:before {
   content: "\f044";
 }
@@ -329,7 +329,7 @@ To add more icons:
 .ion-tab-fa-arrow-down:before {
   content: "\f063";
 }
-.fa-mail-forward:before,
+.ion-tab-fa-mail-forward:before,
 .ion-tab-fa-share:before {
   content: "\f064";
 }
@@ -366,7 +366,7 @@ To add more icons:
 .ion-tab-fa-eye-slash:before {
   content: "\f070";
 }
-.fa-warning:before,
+.ion-tab-fa-warning:before,
 .ion-tab-fa-exclamation-triangle:before {
   content: "\f071";
 }
@@ -409,7 +409,7 @@ To add more icons:
 .ion-tab-fa-arrows-h:before {
   content: "\f07e";
 }
-.fa-bar-chart-o:before,
+.ion-tab-fa-bar-chart-o:before,
 .ion-tab-fa-bar-chart:before {
   content: "\f080";
 }
@@ -425,7 +425,7 @@ To add more icons:
 .ion-tab-fa-key:before {
   content: "\f084";
 }
-.fa-gears:before,
+.ion-tab-fa-gears:before,
 .ion-tab-fa-cogs:before {
   content: "\f085";
 }
@@ -486,7 +486,7 @@ To add more icons:
 .ion-tab-fa-twitter:before {
   content: "\f099";
 }
-.fa-facebook-f:before,
+.ion-tab-fa-facebook-f:before,
 .ion-tab-fa-facebook:before {
   content: "\f09a";
 }
@@ -499,7 +499,7 @@ To add more icons:
 .ion-tab-fa-credit-card:before {
   content: "\f09d";
 }
-.fa-feed:before,
+.ion-tab-fa-feed:before,
 .ion-tab-fa-rss:before {
   content: "\f09e";
 }
@@ -557,11 +557,11 @@ To add more icons:
 .ion-tab-fa-arrows-alt:before {
   content: "\f0b2";
 }
-.fa-group:before,
+.ion-tab-fa-group:before,
 .ion-tab-fa-users:before {
   content: "\f0c0";
 }
-.fa-chain:before,
+.ion-tab-fa-chain:before,
 .ion-tab-fa-link:before {
   content: "\f0c1";
 }
@@ -571,26 +571,26 @@ To add more icons:
 .ion-tab-fa-flask:before {
   content: "\f0c3";
 }
-.fa-cut:before,
+.ion-tab-fa-cut:before,
 .ion-tab-fa-scissors:before {
   content: "\f0c4";
 }
-.fa-copy:before,
+.ion-tab-fa-copy:before,
 .ion-tab-fa-files-o:before {
   content: "\f0c5";
 }
 .ion-tab-fa-paperclip:before {
   content: "\f0c6";
 }
-.fa-save:before,
+.ion-tab-fa-save:before,
 .ion-tab-fa-floppy-o:before {
   content: "\f0c7";
 }
 .ion-tab-fa-square:before {
   content: "\f0c8";
 }
-.fa-navicon:before,
-.fa-reorder:before,
+.ion-tab-fa-navicon:before,
+.ion-tab-fa-reorder:before,
 .ion-tab-fa-bars:before {
   content: "\f0c9";
 }
@@ -645,15 +645,15 @@ To add more icons:
 .ion-tab-fa-columns:before {
   content: "\f0db";
 }
-.fa-unsorted:before,
+.ion-tab-fa-unsorted:before,
 .ion-tab-fa-sort:before {
   content: "\f0dc";
 }
-.fa-sort-down:before,
+.ion-tab-fa-sort-down:before,
 .ion-tab-fa-sort-desc:before {
   content: "\f0dd";
 }
-.fa-sort-up:before,
+.ion-tab-fa-sort-up:before,
 .ion-tab-fa-sort-asc:before {
   content: "\f0de";
 }
@@ -663,15 +663,15 @@ To add more icons:
 .ion-tab-fa-linkedin:before {
   content: "\f0e1";
 }
-.fa-rotate-left:before,
+.ion-tab-fa-rotate-left:before,
 .ion-tab-fa-undo:before {
   content: "\f0e2";
 }
-.fa-legal:before,
+.ion-tab-fa-legal:before,
 .ion-tab-fa-gavel:before {
   content: "\f0e3";
 }
-.fa-dashboard:before,
+.ion-tab-fa-dashboard:before,
 .ion-tab-fa-tachometer:before {
   content: "\f0e4";
 }
@@ -681,7 +681,7 @@ To add more icons:
 .ion-tab-fa-comments-o:before {
   content: "\f0e6";
 }
-.fa-flash:before,
+.ion-tab-fa-flash:before,
 .ion-tab-fa-bolt:before {
   content: "\f0e7";
 }
@@ -691,7 +691,7 @@ To add more icons:
 .ion-tab-fa-umbrella:before {
   content: "\f0e9";
 }
-.fa-paste:before,
+.ion-tab-fa-paste:before,
 .ion-tab-fa-clipboard:before {
   content: "\f0ea";
 }
@@ -785,7 +785,7 @@ To add more icons:
 .ion-tab-fa-tablet:before {
   content: "\f10a";
 }
-.fa-mobile-phone:before,
+.ion-tab-fa-mobile-phone:before,
 .ion-tab-fa-mobile:before {
   content: "\f10b";
 }
@@ -804,7 +804,7 @@ To add more icons:
 .ion-tab-fa-circle:before {
   content: "\f111";
 }
-.fa-mail-reply:before,
+.ion-tab-fa-mail-reply:before,
 .ion-tab-fa-reply:before {
   content: "\f112";
 }
@@ -844,12 +844,12 @@ To add more icons:
 .ion-tab-fa-code:before {
   content: "\f121";
 }
-.fa-mail-reply-all:before,
+.ion-tab-fa-mail-reply-all:before,
 .ion-tab-fa-reply-all:before {
   content: "\f122";
 }
-.fa-star-half-empty:before,
-.fa-star-half-full:before,
+.ion-tab-fa-star-half-empty:before,
+.ion-tab-fa-star-half-full:before,
 .ion-tab-fa-star-half-o:before {
   content: "\f123";
 }
@@ -862,7 +862,7 @@ To add more icons:
 .ion-tab-fa-code-fork:before {
   content: "\f126";
 }
-.fa-unlink:before,
+.ion-tab-fa-unlink:before,
 .ion-tab-fa-chain-broken:before {
   content: "\f127";
 }
@@ -977,49 +977,49 @@ To add more icons:
 .ion-tab-fa-compass:before {
   content: "\f14e";
 }
-.fa-toggle-down:before,
+.ion-tab-fa-toggle-down:before,
 .ion-tab-fa-caret-square-o-down:before {
   content: "\f150";
 }
-.fa-toggle-up:before,
+.ion-tab-fa-toggle-up:before,
 .ion-tab-fa-caret-square-o-up:before {
   content: "\f151";
 }
-.fa-toggle-right:before,
+.ion-tab-fa-toggle-right:before,
 .ion-tab-fa-caret-square-o-right:before {
   content: "\f152";
 }
-.fa-euro:before,
+.ion-tab-fa-euro:before,
 .ion-tab-fa-eur:before {
   content: "\f153";
 }
 .ion-tab-fa-gbp:before {
   content: "\f154";
 }
-.fa-dollar:before,
+.ion-tab-fa-dollar:before,
 .ion-tab-fa-usd:before {
   content: "\f155";
 }
-.fa-rupee:before,
+.ion-tab-fa-rupee:before,
 .ion-tab-fa-inr:before {
   content: "\f156";
 }
-.fa-cny:before,
-.fa-rmb:before,
-.fa-yen:before,
+.ion-tab-fa-cny:before,
+.ion-tab-fa-rmb:before,
+.ion-tab-fa-yen:before,
 .ion-tab-fa-jpy:before {
   content: "\f157";
 }
-.fa-ruble:before,
-.fa-rouble:before,
+.ion-tab-fa-ruble:before,
+.ion-tab-fa-rouble:before,
 .ion-tab-fa-rub:before {
   content: "\f158";
 }
-.fa-won:before,
+.ion-tab-fa-won:before,
 .ion-tab-fa-krw:before {
   content: "\f159";
 }
-.fa-bitcoin:before,
+.ion-tab-fa-bitcoin:before,
 .ion-tab-fa-btc:before {
   content: "\f15a";
 }
@@ -1137,7 +1137,7 @@ To add more icons:
 .ion-tab-fa-male:before {
   content: "\f183";
 }
-.fa-gittip:before,
+.ion-tab-fa-gittip:before,
 .ion-tab-fa-gratipay:before {
   content: "\f184";
 }
@@ -1174,7 +1174,7 @@ To add more icons:
 .ion-tab-fa-arrow-circle-o-left:before {
   content: "\f190";
 }
-.fa-toggle-left:before,
+.ion-tab-fa-toggle-left:before,
 .ion-tab-fa-caret-square-o-left:before {
   content: "\f191";
 }
@@ -1187,7 +1187,7 @@ To add more icons:
 .ion-tab-fa-vimeo-square:before {
   content: "\f194";
 }
-.fa-turkish-lira:before,
+.ion-tab-fa-turkish-lira:before,
 .ion-tab-fa-try:before {
   content: "\f195";
 }
@@ -1209,12 +1209,12 @@ To add more icons:
 .ion-tab-fa-openid:before {
   content: "\f19b";
 }
-.fa-institution:before,
-.fa-bank:before,
+.ion-tab-fa-institution:before,
+.ion-tab-fa-bank:before,
 .ion-tab-fa-university:before {
   content: "\f19c";
 }
-.fa-mortar-board:before,
+.ion-tab-fa-mortar-board:before,
 .ion-tab-fa-graduation-cap:before {
   content: "\f19d";
 }
@@ -1293,11 +1293,11 @@ To add more icons:
 .ion-tab-fa-recycle:before {
   content: "\f1b8";
 }
-.fa-automobile:before,
+.ion-tab-fa-automobile:before,
 .ion-tab-fa-car:before {
   content: "\f1b9";
 }
-.fa-cab:before,
+.ion-tab-fa-cab:before,
 .ion-tab-fa-taxi:before {
   content: "\f1ba";
 }
@@ -1328,20 +1328,20 @@ To add more icons:
 .ion-tab-fa-file-powerpoint-o:before {
   content: "\f1c4";
 }
-.fa-file-photo-o:before,
-.fa-file-picture-o:before,
+.ion-tab-fa-file-photo-o:before,
+.ion-tab-fa-file-picture-o:before,
 .ion-tab-fa-file-image-o:before {
   content: "\f1c5";
 }
-.fa-file-zip-o:before,
+.ion-tab-fa-file-zip-o:before,
 .ion-tab-fa-file-archive-o:before {
   content: "\f1c6";
 }
-.fa-file-sound-o:before,
+.ion-tab-fa-file-sound-o:before,
 .ion-tab-fa-file-audio-o:before {
   content: "\f1c7";
 }
-.fa-file-movie-o:before,
+.ion-tab-fa-file-movie-o:before,
 .ion-tab-fa-file-video-o:before {
   content: "\f1c8";
 }
@@ -1357,21 +1357,21 @@ To add more icons:
 .ion-tab-fa-jsfiddle:before {
   content: "\f1cc";
 }
-.fa-life-bouy:before,
-.fa-life-buoy:before,
-.fa-life-saver:before,
-.fa-support:before,
+.ion-tab-fa-life-bouy:before,
+.ion-tab-fa-life-buoy:before,
+.ion-tab-fa-life-saver:before,
+.ion-tab-fa-support:before,
 .ion-tab-fa-life-ring:before {
   content: "\f1cd";
 }
 .ion-tab-fa-circle-o-notch:before {
   content: "\f1ce";
 }
-.fa-ra:before,
+.ion-tab-fa-ra:before,
 .ion-tab-fa-rebel:before {
   content: "\f1d0";
 }
-.fa-ge:before,
+.ion-tab-fa-ge:before,
 .ion-tab-fa-empire:before {
   content: "\f1d1";
 }
@@ -1381,8 +1381,8 @@ To add more icons:
 .ion-tab-fa-git:before {
   content: "\f1d3";
 }
-.fa-y-combinator-square:before,
-.fa-yc-square:before,
+.ion-tab-fa-y-combinator-square:before,
+.ion-tab-fa-yc-square:before,
 .ion-tab-fa-hacker-news:before {
   content: "\f1d4";
 }
@@ -1392,15 +1392,15 @@ To add more icons:
 .ion-tab-fa-qq:before {
   content: "\f1d6";
 }
-.fa-wechat:before,
+.ion-tab-fa-wechat:before,
 .ion-tab-fa-weixin:before {
   content: "\f1d7";
 }
-.fa-send:before,
+.ion-tab-fa-send:before,
 .ion-tab-fa-paper-plane:before {
   content: "\f1d8";
 }
-.fa-send-o:before,
+.ion-tab-fa-send-o:before,
 .ion-tab-fa-paper-plane-o:before {
   content: "\f1d9";
 }
@@ -1428,7 +1428,7 @@ To add more icons:
 .ion-tab-fa-bomb:before {
   content: "\f1e2";
 }
-.fa-soccer-ball-o:before,
+.ion-tab-fa-soccer-ball-o:before,
 .ion-tab-fa-futbol-o:before {
   content: "\f1e3";
 }
@@ -1543,8 +1543,8 @@ To add more icons:
 .ion-tab-fa-cc:before {
   content: "\f20a";
 }
-.fa-shekel:before,
-.fa-sheqel:before,
+.ion-tab-fa-shekel:before,
+.ion-tab-fa-sheqel:before,
 .ion-tab-fa-ils:before {
   content: "\f20b";
 }
@@ -1611,7 +1611,7 @@ To add more icons:
 .ion-tab-fa-mercury:before {
   content: "\f223";
 }
-.fa-intersex:before,
+.ion-tab-fa-intersex:before,
 .ion-tab-fa-transgender:before {
   content: "\f224";
 }
@@ -1660,7 +1660,7 @@ To add more icons:
 .ion-tab-fa-user-times:before {
   content: "\f235";
 }
-.fa-hotel:before,
+.ion-tab-fa-hotel:before,
 .ion-tab-fa-bed:before {
   content: "\f236";
 }
@@ -1676,7 +1676,7 @@ To add more icons:
 .ion-tab-fa-medium:before {
   content: "\f23a";
 }
-.fa-yc:before,
+.ion-tab-fa-yc:before,
 .ion-tab-fa-y-combinator:before {
   content: "\f23b";
 }
@@ -1689,23 +1689,23 @@ To add more icons:
 .ion-tab-fa-expeditedssl:before {
   content: "\f23e";
 }
-.fa-battery-4:before,
+.ion-tab-fa-battery-4:before,
 .ion-tab-fa-battery-full:before {
   content: "\f240";
 }
-.fa-battery-3:before,
+.ion-tab-fa-battery-3:before,
 .ion-tab-fa-battery-three-quarters:before {
   content: "\f241";
 }
-.fa-battery-2:before,
+.ion-tab-fa-battery-2:before,
 .ion-tab-fa-battery-half:before {
   content: "\f242";
 }
-.fa-battery-1:before,
+.ion-tab-fa-battery-1:before,
 .ion-tab-fa-battery-quarter:before {
   content: "\f243";
 }
-.fa-battery-0:before,
+.ion-tab-fa-battery-0:before,
 .ion-tab-fa-battery-empty:before {
   content: "\f244";
 }
@@ -1742,26 +1742,26 @@ To add more icons:
 .ion-tab-fa-hourglass-o:before {
   content: "\f250";
 }
-.fa-hourglass-1:before,
+.ion-tab-fa-hourglass-1:before,
 .ion-tab-fa-hourglass-start:before {
   content: "\f251";
 }
-.fa-hourglass-2:before,
+.ion-tab-fa-hourglass-2:before,
 .ion-tab-fa-hourglass-half:before {
   content: "\f252";
 }
-.fa-hourglass-3:before,
+.ion-tab-fa-hourglass-3:before,
 .ion-tab-fa-hourglass-end:before {
   content: "\f253";
 }
 .ion-tab-fa-hourglass:before {
   content: "\f254";
 }
-.fa-hand-grab-o:before,
+.ion-tab-fa-hand-grab-o:before,
 .ion-tab-fa-hand-rock-o:before {
   content: "\f255";
 }
-.fa-hand-stop-o:before,
+.ion-tab-fa-hand-stop-o:before,
 .ion-tab-fa-hand-paper-o:before {
   content: "\f256";
 }
@@ -1825,7 +1825,7 @@ To add more icons:
 .ion-tab-fa-internet-explorer:before {
   content: "\f26b";
 }
-.fa-tv:before,
+.ion-tab-fa-tv:before,
 .ion-tab-fa-television:before {
   content: "\f26c";
 }
