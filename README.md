@@ -1,5 +1,5 @@
 # Font-Awesome-For-Ionic-Tabs
-Use Font Awesome icons with Ionic Framework tabs
+Use Font Awesome icons with Ionic Framework tabs. Includes icons from Font Awesome 4.5.0 (thanks to [@ollycross](https://github.com/ollycross))
 
 ## Installation
 Make sure you have Font Awesome installed correctly and is working with your Ionic app. You'll need to make sure the fonts are located locally on in your app and that your @font-face src is correctly pointing to files.
@@ -13,63 +13,23 @@ Then include the font-awesome-ionic-tabs.css file in your app. If it's working c
 </ion-tab>
 ```
 
-## Adding Fonts
-***NOTE:*** I have not added all of the Font Awesome icons to the style sheet yet. Feel free to help! 
-
+## Adding Font Awesome Icons
 * Find the unicode characters here: http://fortawesome.github.io/Font-Awesome/cheatsheet/
 * See if they are already included in this list
 * Name your style identical to the font awesome style, but prefix with "ion-tab-"
-* Add in two places (CSS description at top and the specific content: with the unicode)
+* Add the class with the unicode content to the list
 
-*Example before...*
-
-```css
-.ion-tab-fa-anchor:before   {
-  display: inline-block;
-  font-family: "FontAwesome";
-  font-size: 72%;
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  text-rendering: auto;
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
-
-.ion-tab-fa-anchor:before {
-  content: "\f13d"; }
-```
-
-*Example after...*
+*Example...*
 
 ```css
-.ion-tab-fa-anchor:before, .ion-tab-fa-apple:before   {
-  display: inline-block;
-  font-family: "FontAwesome";
-  font-size: 72%;
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  text-rendering: auto;
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale; }
-
 .ion-tab-fa-anchor:before {
   content: "\f13d"; }
-  
- .ion-tab-fa-apple:before {
-  content: "\f179"; }
 ```
 
 *Now you can use your new class...*
 
 ```html
-<ion-tab title="Photos" icon-on="ion-tab-fa-apple" icon-off="ion-tab-fa-apple">
+<ion-tab title="Photos" icon-on="ion-tab-fa-anchor:before" icon-off="ion-tab-fa-anchor:before">
   <ion-nav-view name="tab-one"></ion-nav-view>
 </ion-tab>
 ```
